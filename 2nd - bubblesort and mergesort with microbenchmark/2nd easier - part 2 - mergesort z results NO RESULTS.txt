@@ -1,0 +1,14 @@
+mergesort 100 elements - 1st test - 0 ns
+mergesort 100 elements - 2nd test - 0 ns
+mergesort 100 elements - 3rd test - 0 ns
+
+average of 100 elements - 0 nano seconds
+
+mergesort 1000 elements - 1st test - 0 ns
+mergesort 1000 elements - 2nd test - 0 ns
+mergesort 1000 elements - 3rd test - 0 ns
+
+average of 1000 elements - 0 nano seconds
+
+
+//Can't make it work!! Angry!!
