@@ -1,0 +1,10 @@
+import cf.mindaugas.sorter.Sorter;
+
+public class Main {
+    public static void main(String[] args){
+        double[] testArr = {2, 4, 7, 4, 1};
+
+        // Run insertion sort
+        Sorter.insertionSort(testArr);
+    }
+}
