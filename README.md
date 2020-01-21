@@ -1,7 +1,7 @@
 # SDA Homework
 
 #### Task is to practice with Git Bash CLI
-- very first uploaded 2019.01
+- Very first upload 2019.01
 
 
 TODO: for 2020.01
@@ -12,15 +12,17 @@ TODO: for 2020.01
 
 Original 2019| Updated 2020
 ------------ | -------------
-allDublicates.txt | allDuplicates.java
+allDublicates.txt | AllDuplicates.java
 dubFinder - dosnt work.txt | DuplicateFinder.java
+Factorial.txt | FactorialTest.java
+Fibonacci.txt | FibonacciTest
 
  Updates list:
 -
-- [x] Revisited allDublicates.txt  :arrow_right: allDuplicates.java
+- [x] Revisited allDublicates.txt  :arrow_right: AllDuplicates.java
 - [x] Revisited dubFinder - dosnt work.txt and dubFinder 02 - dosnt work.txt :arrow_right: DuplicateFinder.java
-- [ ] Revisit Factorial.txt and Factorial 02.txt
-- [ ] Revisit Fibonacci.txt
+- [x] Revisit Factorial.txt and Factorial 02.txt
+- [x] Revisit Fibonacci.txt
 - [ ] Revisit Insertionsort - dosnt work.txt and Insertionsort 02 - dosnt work.txt
 - [ ] Revisit Mergesort.txt
 - [ ] Revisit min max.txt

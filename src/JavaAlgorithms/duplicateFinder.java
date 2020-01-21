@@ -3,7 +3,7 @@ package JavaAlgorithms;
 // This program finds duplicates in array
 // Revisited at 2020-01
 
-public class duplicateFinder {
+public class DuplicateFinder {
 
     public static void main(String[] args){
 
@@ -12,7 +12,7 @@ public class duplicateFinder {
         int[] testArr = {2, 4, 7, 4, 1, 1, 8, 3, 5, 6, 9};
 
         // 4 - call the function
-        duplicateFinder df = new duplicateFinder();
+        DuplicateFinder df = new DuplicateFinder();
         int[] a = df.findDubs(testArr);
         for(int k = 0; k < a.length; k++){
             System.out.println(a[k]);
