@@ -16,6 +16,8 @@ allDublicates.txt | AllDuplicates.java
 dubFinder - dosnt work.txt | DuplicateFinder.java
 Factorial.txt | FactorialTest.java
 Fibonacci.txt | FibonacciTest.java
+Insertionsort - dosnt work.txt | InsertionSort.java
+Mergesort.txt | MergeSort.java
 
  Updates list:
 -
@@ -23,8 +25,8 @@ Fibonacci.txt | FibonacciTest.java
 - [x] Revisited dubFinder - dosnt work.txt and dubFinder 02 - dosnt work.txt :arrow_right: DuplicateFinder.java
 - [x] Revisit Factorial.txt and Factorial 02.txt :arrow_right: FactorialTest.java
 - [x] Revisit Fibonacci.txt :arrow_right: FibonacciTest.java
-- [ ] Revisit Insertionsort - dosnt work.txt and Insertionsort 02 - dosnt work.txt
-- [ ] Revisit Mergesort.txt
+- [x] Revisit Insertionsort - dosnt work.txt and Insertionsort 02 - dosnt work.txt
+- [x] Revisit Mergesort.txt
 - [ ] Revisit min max.txt
 - [ ] Revisit Quicksort.txt
 
