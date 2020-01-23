@@ -7,26 +7,12 @@
 #####  :file_folder: ProblemSolving contains tasks to practice Difficulty - Easy
 
 
-
 TODO: for 2020.01
 -
 - Revisit all code snippets
 - Apply clean code rules
 - :repeat: Add new code snippets to Library
 
-
-Original 2019| Updated 2020
------------- | -------------
-allDublicates.txt | AllDuplicates.java
-dubFinder - dosnt work.txt | DuplicateFinder.java
-Factorial.txt | FactorialTest.java
-Fibonacci.txt | FibonacciTest.java
-Insertionsort - dosnt work.txt | InsertionSort.java
-Mergesort.txt | MergeSort.java
-min max.txt | FindMinimum.java
-Quicksort.txt | QuickSort.java
-2nd easier - part 1 - bubblesort with random gen micro bench.txt | BubbleSortMicrobench.java
-2nd easier - part 2 - mergesort with random gen micro bench.txt | MergeSortMicrobench.java
 
 Nr. | Folder | File
 ------------ | ------------- | -------------
@@ -48,6 +34,19 @@ Nr. | Folder | File
 - [x] Revisited Quicksort.txt :arrow_right: QuickSort.java
 - [x] Revisited 2nd easier - part 1 - bubblesort with random gen micro bench.txt :arrow_right: BubbleSortMicrobench.java
 - [x] Revisited 2nd easier - part 2 - mergesort with random gen micro bench.txt :arrow_right: MergeSortMicrobench.java
+
+Original 2019| Updated 2020
+------------ | -------------
+allDublicates.txt | AllDuplicates.java
+dubFinder - dosnt work.txt | DuplicateFinder.java
+Factorial.txt | FactorialTest.java
+Fibonacci.txt | FibonacciTest.java
+Insertionsort - dosnt work.txt | InsertionSort.java
+Mergesort.txt | MergeSort.java
+min max.txt | FindMinimum.java
+Quicksort.txt | QuickSort.java
+2nd easier - part 1 - bubblesort with random gen micro bench.txt | BubbleSortMicrobench.java
+2nd easier - part 2 - mergesort with random gen micro bench.txt | MergeSortMicrobench.java
 
 
 
