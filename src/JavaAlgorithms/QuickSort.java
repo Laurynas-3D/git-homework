@@ -51,6 +51,6 @@ public class QuickSort {
         arr[i+1] = arr[end];
         arr[end] = swapTemp;
 
-        return i+1;
+        return i + 1;
     }
 }

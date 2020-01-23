@@ -19,8 +19,9 @@ Fibonacci.txt | FibonacciTest.java
 Insertionsort - dosnt work.txt | InsertionSort.java
 Mergesort.txt | MergeSort.java
 min max.txt | FindMinimum.java
-:small_blue_diamond: | SumOfArray.java
+ :white_small_square: | SumOfArray.java
 Quicksort.txt | QuickSort.java
+2nd easier - part 1 - bubblesort with random gen micro bench.txt | BubbleSortMicrobench.java
   
   
 
@@ -34,7 +35,7 @@ Quicksort.txt | QuickSort.java
 - [x] Revisited Mergesort.txt :arrow_right: MergeSort.java
 - [x] Revisited min max.txt :arrow_right: FindMinimum.java
 - [x] Revisited Quicksort.txt :arrow_right: QuickSort.java
-- [ ] Revisit 2nd easier - part 1 - bubblesort with random gen micro bench.txt
+- [x] Revisit 2nd easier - part 1 - bubblesort with random gen micro bench.txt
 - [ ] Revisit 2nd easier - part 2 - mergesort with random gen micro bench.txt
 
 

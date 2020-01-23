@@ -7,18 +7,18 @@ public class MergeSort {
 
     public static void main(String[] args) {
 
-        int[] testArr = {3, 2, 1, 7, -99, 22, -68, -54, 105, 22, 78, -23, 65, 125, -456, 1028, 74, 98};
+        int[] testArray = {3, 2, 1, 7, -99, 22, -68, -54, 105, 22, 78, -23, 65, 125, -456, 1028, 74, 98};
 
-        mergeSort(testArr);
+        mergeSort(testArray);
 
         System.out.print("Merge sort: \n");
-        for(int i = 0; i < testArr.length; i++){
-            System.out.print(testArr[i] + ", ");
+        for(int i = 0; i < testArray.length; i++){
+            System.out.print(testArray[i] + ", ");
         }
     }
 
-    static void mergeSort(int[] arr){
-        int aLen = arr.length;
+    static void mergeSort(int[] array){
+        int aLen = array.length;
         if(aLen < 2){
             return;
         }
@@ -28,14 +28,14 @@ public class MergeSort {
         int[] right = new int[aLen - mid];
 
         for(int i = 0; i <= mid - 1; i++)
-            left[i] = arr[i];
+            left[i] = array[i];
 
         for(int i = mid; i <= aLen - 1; i++)
-            right[i - mid] = arr[i];
+            right[i - mid] = array[i];
 
         mergeSort(left);
         mergeSort(right);
-        merge(arr, left, right);
+        merge(array, left, right);
     }
 
     static void merge(int[] origArr, int[] arrL, int[] arrR){

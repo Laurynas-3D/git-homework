@@ -15,6 +15,7 @@ public class FindMinimum {
     }
 
     static int findMinimum(int[] array){
+
         int min = array[0];
 
         for(int i = 1; i < array.length; i++){
