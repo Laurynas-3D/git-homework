@@ -1,7 +1,7 @@
 package JavaAlgorithms;
 
 // Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
-// This program use BubbleSort algorithm to sort elements in the given array, then measure execution time.
+// This program use BubbleSort algorithm to sort elements in the given array, then measure execution time in Nanoseconds.
 // Revisited at 2020-01
 
 import java.util.Random;
@@ -26,11 +26,10 @@ public class BubbleSortMicrobench {
         printArray(testArray);
 
         // micro-benchmarking
-        int input = sizeOfArray;
         long startTime = System.nanoTime();
         bubbleSort(testArray);
         long endTime = System.nanoTime();
-        System.out.println("\n\nMicrobenchmark (" + input + " elements) call took: " + (endTime - startTime) + "ns");
+        System.out.println("\n\nMicrobenchmark (" + sizeOfArray + " elements) call took: " + (endTime - startTime) + "ns");
 
     }
 
