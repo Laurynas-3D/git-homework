@@ -28,7 +28,7 @@ Quicksort.txt | QuickSort.java
 2nd easier - part 1 - bubblesort with random gen micro bench.txt | BubbleSortMicrobench.java
 2nd easier - part 2 - mergesort with random gen micro bench.txt | MergeSortMicrobench.java
 
-# | Folder | File
+Nr. | Folder | File
 ------------ | ------------- | -------------
 1 | JavaAlgorithms | CollectionsTest.java
 2 | JavaAlgorithms | SumOfArray.java
