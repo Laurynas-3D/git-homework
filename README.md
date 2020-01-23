@@ -3,11 +3,16 @@
 #### Task is to practice with Git Bash CLI
 - Very first upload 2019.01
 
+#####  :file_folder: JavaAlgorithms contains mechanical examples
+#####  :file_folder: ProblemSolving contains tasks to practice Difficulty - Easy
+
+
 
 TODO: for 2020.01
 -
 - Revisit all code snippets
 - Apply clean code rules
+- 
 
 
 Original 2019| Updated 2020
@@ -38,6 +43,7 @@ Quicksort.txt | QuickSort.java
 - [x] Revisited Quicksort.txt :arrow_right: QuickSort.java
 - [x] Revisited 2nd easier - part 1 - bubblesort with random gen micro bench.txt :arrow_right: BubbleSortMicrobench.java
 - [x] Revisited 2nd easier - part 2 - mergesort with random gen micro bench.txt :arrow_right: MergeSortMicrobench.java
-- [ ] Revisit
+
+- :repeat: Add new code snippets to Library
 
 
