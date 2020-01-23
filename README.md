@@ -18,16 +18,23 @@ Factorial.txt | FactorialTest.java
 Fibonacci.txt | FibonacciTest.java
 Insertionsort - dosnt work.txt | InsertionSort.java
 Mergesort.txt | MergeSort.java
+min max.txt | FindMinimum.java
+:small_blue_diamond: | SumOfArray.java
+Quicksort.txt | QuickSort.java
+  
+  
 
  Updates list:
 -
 - [x] Revisited allDublicates.txt  :arrow_right: AllDuplicates.java
 - [x] Revisited dubFinder - dosnt work.txt and dubFinder 02 - dosnt work.txt :arrow_right: DuplicateFinder.java
-- [x] Revisit Factorial.txt and Factorial 02.txt :arrow_right: FactorialTest.java
-- [x] Revisit Fibonacci.txt :arrow_right: FibonacciTest.java
-- [x] Revisit Insertionsort - dosnt work.txt and Insertionsort 02 - dosnt work.txt :arrow_right: InsertionSort.java
-- [x] Revisit Mergesort.txt :arrow_right: MergeSort.java
-- [ ] Revisit min max.txt
-- [ ] Revisit Quicksort.txt
+- [x] Revisited Factorial.txt and Factorial 02.txt :arrow_right: FactorialTest.java
+- [x] Revisited Fibonacci.txt :arrow_right: FibonacciTest.java
+- [x] Revisited Insertionsort - dosnt work.txt and Insertionsort 02 - dosnt work.txt :arrow_right: InsertionSort.java
+- [x] Revisited Mergesort.txt :arrow_right: MergeSort.java
+- [x] Revisited min max.txt :arrow_right: FindMinimum.java
+- [x] Revisited Quicksort.txt :arrow_right: QuickSort.java
+- [ ] Revisit 2nd easier - part 1 - bubblesort with random gen micro bench.txt
+- [ ] Revisit 2nd easier - part 2 - mergesort with random gen micro bench.txt
 
 
