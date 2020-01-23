@@ -1,7 +1,9 @@
 package JavaAlgorithms;
 
-// This program adds up all the elements in the given array.
-// Returns the sum of all the values in an array using IntStream
+// This program:
+// 1. Adds up all the elements in the given array.
+// 2. Returns the sum of all the values in an array using IntStream
+// 3. Sum all elements with Lambda Expression
 // Revisited at 2020-01
 
 import java.util.stream.IntStream;
@@ -18,6 +20,7 @@ public class SumOfArray {
         int total2 = IntStream.of(array2).sum();
         System.out.printf("\nTotal of array2 elements: %d%n", total2);
 
+        System.out.printf("%nSum via reduce method of array2: %d%n", IntStream.of(array2).reduce(0,(x, y) -> x + y));
     }
 
     static int sumOfArray(int[] array){

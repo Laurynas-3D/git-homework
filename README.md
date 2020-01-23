@@ -12,7 +12,7 @@ TODO: for 2020.01
 -
 - Revisit all code snippets
 - Apply clean code rules
-- 
+- :repeat: Add new code snippets to Library
 
 
 Original 2019| Updated 2020
@@ -24,10 +24,15 @@ Fibonacci.txt | FibonacciTest.java
 Insertionsort - dosnt work.txt | InsertionSort.java
 Mergesort.txt | MergeSort.java
 min max.txt | FindMinimum.java
- :white_small_square: | SumOfArray.java
 Quicksort.txt | QuickSort.java
 2nd easier - part 1 - bubblesort with random gen micro bench.txt | BubbleSortMicrobench.java
 2nd easier - part 2 - mergesort with random gen micro bench.txt | MergeSortMicrobench.java
+
+# | Folder | File
+----| ---- | ----
+1 | JavaAlgorithms | CollectionsTest.java
+2 | JavaAlgorithms | SumOfArray.java
+3 | ProblemSolving | NumberSwap.java
   
   
 
@@ -44,6 +49,6 @@ Quicksort.txt | QuickSort.java
 - [x] Revisited 2nd easier - part 1 - bubblesort with random gen micro bench.txt :arrow_right: BubbleSortMicrobench.java
 - [x] Revisited 2nd easier - part 2 - mergesort with random gen micro bench.txt :arrow_right: MergeSortMicrobench.java
 
-- :repeat: Add new code snippets to Library
+
 
 
