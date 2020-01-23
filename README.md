@@ -29,7 +29,7 @@ Quicksort.txt | QuickSort.java
 2nd easier - part 2 - mergesort with random gen micro bench.txt | MergeSortMicrobench.java
 
 # | Folder | File
-----| ---- | ----
+------------ | ------------- | -------------
 1 | JavaAlgorithms | CollectionsTest.java
 2 | JavaAlgorithms | SumOfArray.java
 3 | ProblemSolving | NumberSwap.java
