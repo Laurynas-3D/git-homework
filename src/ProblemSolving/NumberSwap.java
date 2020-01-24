@@ -19,8 +19,15 @@ public class NumberSwap {
         System.out.print("Enter number 2: ");
         int number2 = input.nextInt();
 
-        System.out.println("Your entered numbers are: " + number1 + ", " + number2);
-        System.out.printf("Swapped numbers are: %d, %d", number2, number1);
+        System.out.println("Your entered numbers are: int number1 = " + number1 + ", int number2 = " + number2);
+
+        int number3;
+        number3 = number1;
+        number1 = number2;
+        number2 = number3;
+
+        System.out.printf("     Swapped numbers are: int number1 = %d, int number2 = %d", number1, number2);
+
     }
 
 
