@@ -1,4 +1,6 @@
-![](media/number-swap.png)
+<!-- ![](media/number-swap.png) -->
 
-<img src="media/number-swap.png" alt="Markdown Monster icon"
- style="float: center; margin-right: 10px;" />
+<center>
+  <img src="media/number-swap.png" align="middle" alt="number swap alg"
+   style="float: center; margin-right: 10px;" />
+ </center>
