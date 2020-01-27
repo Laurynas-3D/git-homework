@@ -19,6 +19,8 @@ Nr. | Folder | File
 1 | JavaAlgorithms | CollectionsTest.java
 2 | JavaAlgorithms | SumOfArray.java
 3 | ProblemSolving | NumberSwap.java
+4 | JavaAlgorithms | Collections2.java
+5 | JavaAlgorithms | Collections3.java
   
   
 
