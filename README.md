@@ -14,13 +14,14 @@ TODO: for 2020.01
 - :repeat: Add new code snippets to Library
 
 
-Nr. | Folder | File
+Nr. | Folder | New File
 ------------ | ------------- | -------------
 1 | JavaAlgorithms | CollectionsTest.java
 2 | JavaAlgorithms | SumOfArray.java
 3 | ProblemSolving | NumberSwap.java
 4 | JavaAlgorithms | Collections2.java
 5 | JavaAlgorithms | Collections3.java
+6 | JavaAlgorithms | Collections4Sort.java
   
   
 
