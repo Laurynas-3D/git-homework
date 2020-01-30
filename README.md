@@ -22,10 +22,12 @@ Nr. | Folder | New File
 4 | JavaAlgorithms | Collections2.java
 5 | JavaAlgorithms | Collections3.java
 6 | JavaAlgorithms | Collections4Sort.java
+7 | ProblemSolving | QueueBugChallenge.java
+8 | JavaAlgorithms | CollectionsSDA.java
   
   
 
- Updates list:
+ Updates list: 2020.01
 -
 - [x] Revisited allDublicates.txt  :arrow_right: AllDuplicates.java
 - [x] Revisited dubFinder - dosnt work.txt and dubFinder 02 - dosnt work.txt :arrow_right: DuplicateFinder.java
