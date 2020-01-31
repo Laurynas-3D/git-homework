@@ -29,6 +29,7 @@ Nr. | Folder | New File
 7 | ProblemSolving | QueueBugChallenge.java
 8 | JavaAlgorithms | CollectionsSDA.java
 9 | Generics       | OverloadedMethods.java
+10| Generics       | GenericMethodTest
   
   
 
