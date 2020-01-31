@@ -1,11 +1,15 @@
-# SDA Homework
+# Homework
 
-#### Task is to practice with Git Bash CLI
-- Very first upload 2019.01
-
+#####  :file_folder: Generics examples for demonstration purposes
 #####  :file_folder: JavaAlgorithms contains mechanical examples
 #####  :file_folder: ProblemSolving contains tasks to practice Difficulty - Easy
 
+TODO: for 2020.02
+-
+- :repeat: Add new code snippets to Library
+
+Nr. | Folder | New File
+------- | -------- | --------
 
 TODO: for 2020.01
 -
@@ -15,7 +19,7 @@ TODO: for 2020.01
 
 
 Nr. | Folder | New File
------------- | ------------- | -------------
+--- | ------ | --------
 1 | JavaAlgorithms | CollectionsTest.java
 2 | JavaAlgorithms | SumOfArray.java
 3 | ProblemSolving | NumberSwap.java
@@ -24,6 +28,7 @@ Nr. | Folder | New File
 6 | JavaAlgorithms | Collections4Sort.java
 7 | ProblemSolving | QueueBugChallenge.java
 8 | JavaAlgorithms | CollectionsSDA.java
+9 | Generics       | OverloadedMethods.java
   
   
 
@@ -52,6 +57,10 @@ min max.txt | FindMinimum.java
 Quicksort.txt | QuickSort.java
 2nd easier - part 1 - bubblesort with random gen micro bench.txt | BubbleSortMicrobench.java
 2nd easier - part 2 - mergesort with random gen micro bench.txt | MergeSortMicrobench.java
+
+## Homework for 2019.01
+##### Task is to practice with Git Bash CLI
+- Very first upload 2019.01
 
 
 

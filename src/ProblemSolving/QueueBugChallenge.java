@@ -6,6 +6,8 @@ package ProblemSolving;
 // should be without first e
 // TODO: find a bug.
 
+import java.util.Queue;
+
 /**
  * Bug found! in print method "int i" was set to zero. This is not arrays data structure. Counter control loop should
  * start loop from position 1
@@ -31,6 +33,8 @@ public class QueueBugChallenge {
         // System.out.println(q.dequeue());
         // q.enqueue('c');
         // System.out.println(q.dequeue());
+
+        queue.printEnhancedLoop();
     }
 }
 
@@ -71,10 +75,16 @@ class QueueImplementation {
     }
 
     public void print(){
-
+        System.out.print("\nPrinting with Counter control loop - ");
         for(int i = 1; i < queue.length; i++)
             System.out.print(queue[i]);
 
+    }
+
+    public void printEnhancedLoop(){
+        System.out.print("\nPrinting with Enhanced loop        - ");
+        for (Character element : queue )
+            System.out.printf("%s", element);
     }
 
 }
