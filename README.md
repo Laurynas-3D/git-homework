@@ -2,9 +2,10 @@
 
 :file_folder: src
 
-   #####  :file_folder: Generics - examples for demonstration purposes
-   #####  :file_folder: JavaAlgorithms - contains mechanical examples
-   #####  :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
+#####  :file_folder: Generics - examples for demonstration purposes
+#####  :file_folder: JavaAlgorithms - contains mechanical examples
+#####  :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
+
 
 TODO: for 2020.02
 -
@@ -31,7 +32,8 @@ Nr. | Folder | New File
 7 | ProblemSolving | QueueBugChallenge.java
 8 | JavaAlgorithms | CollectionsSDA.java
 9 | Generics       | OverloadedMethods.java
-10| Generics       | GenericMethodTest
+10| Generics       | GenericMethodTest.java
+11| Generics       | MaximumTest.java
   
   
 
