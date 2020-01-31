@@ -2,9 +2,9 @@
 
 :file_folder: src
 
-    #####  :file_folder: Generics - examples for demonstration purposes
-    #####  :file_folder: JavaAlgorithms - contains mechanical examples
-    #####  :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
+   #####  :file_folder: Generics - examples for demonstration purposes
+   #####  :file_folder: JavaAlgorithms - contains mechanical examples
+   #####  :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
 
 TODO: for 2020.02
 -
