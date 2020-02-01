@@ -13,6 +13,8 @@ TODO: for 2020.02
 
 Nr. | Folder | New File
 ------- | -------- | --------
+1 | Generics | StackTest.java
+2 | Generics | StackTest2.java
 
 TODO: for 2020.01
 -
