@@ -15,6 +15,7 @@ Nr. | Folder | New File
 ------- | -------- | --------
 1 | Generics | StackTest.java
 2 | Generics | StackTest2.java
+3 | Generics | TotalNumbers.java
 
 TODO: for 2020.01
 -
