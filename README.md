@@ -19,6 +19,7 @@ Nr. | Folder | New File
 4 | Generics | WildcardTest.java
 5 | Concurrency | TaskExecutor.java
 6 | DataStructures | HashSetTest.java
+7 | DataStructures | TreeSetTest.java
 
 TODO: for 2020.01
 -

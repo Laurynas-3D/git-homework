@@ -1,7 +1,6 @@
 package DataStructures;
 
-import java.util.HashSet;
-import java.util.Iterator;
+import java.util.*;
 
 /**
  This program:
@@ -14,6 +13,11 @@ import java.util.Iterator;
 class HashSetTest
 {
     public static void main(String[]args){
+        // NOTE:
+        // HashSet : For operations like search, insert and delete. It takes constant time for these operations on average.
+        // HashSet is faster than TreeSet.
+        // Elements in HashSet are not ordered.
+        // HashSet allows null object.
         HashSet<String> h = new HashSet<String>();
 
         // Adding elements into HashSet using add()
@@ -33,11 +37,20 @@ class HashSetTest
         // Removing items from HashSet using remove()
         h.remove("Biržai");
         System.out.println("List after removing Biržai: "+h);
+        System.out.println("List size after remove: " + h.size());
 
         // Iterating over hash set items
         System.out.println("Iterating over list:");
         Iterator<String> i = h.iterator();
         while (i.hasNext())
             System.out.println(i.next());
+
+        // Sorting HashSet using List
+        List<String> list = new ArrayList<String>(h);
+        Collections.sort(list);
+
+        // Print the sorted elements of the HashSet
+        System.out.println("\nHashSet elements in sorted order using List: " + list);
+
     }
 }
