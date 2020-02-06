@@ -2,6 +2,9 @@
 
 :file_folder: src
 
+#####  :file_folder: Arrays - examples of arrays manipulations
+#####  :file_folder: Concurrency - examples of concurrent programming
+#####  :file_folder: DataStructures - practice with data-structures
 #####  :file_folder: Generics - examples for demonstration purposes
 #####  :file_folder: JavaAlgorithms - contains mechanical examples
 #####  :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
@@ -20,6 +23,8 @@ Nr. | Folder | New File
 5 | Concurrency | TaskExecutor.java
 6 | DataStructures | HashSetTest.java
 7 | DataStructures | TreeSetTest.java
+8 | JavaAlgorithms | SortingTwoDimensionalArrays.java
+9 | Arrays | ArrayOfObjects.java
 
 TODO: for 2020.01
 -
