@@ -3,7 +3,7 @@ package JavaAlgorithms;
 // This program finds duplicates in array
 // Revisited at 2020-01
 
-public class DuplicateFinder {
+class DuplicateFinder {
 
     public static void main(String[] args){
 

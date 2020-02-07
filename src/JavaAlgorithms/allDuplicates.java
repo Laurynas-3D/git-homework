@@ -2,7 +2,7 @@ package JavaAlgorithms;
 // This program finds duplicates in array
 // Revisited at 2020-01
 
-public class AllDuplicates {
+class AllDuplicates {
 
     public static void main(String[] args){
 

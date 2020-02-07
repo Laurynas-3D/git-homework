@@ -25,6 +25,7 @@ Nr. | Folder | New File
 7 | DataStructures | TreeSetTest.java
 8 | JavaAlgorithms | SortingTwoDimensionalArrays.java
 9 | Arrays | ArrayOfObjects.java
+10 | Arrays | ShuffleArray.java
 
 TODO: for 2020.01
 -
