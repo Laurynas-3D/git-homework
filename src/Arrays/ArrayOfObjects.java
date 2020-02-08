@@ -7,7 +7,7 @@ package Arrays;
  Created at 2020-02
  */
 
-public class ArrayOfObjects {
+class ArrayOfObjects {
 
     // Java program to illustrate creating an array of objects
 
