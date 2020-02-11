@@ -29,6 +29,9 @@ Nr. | Folder | New File
 11 | Arrays | PushZerosToEnd.java
 12 | Arrays | MoveZerosToEnd.java
 13 | Arrays | CopyOfRange.java
+14 | DataStructures | FilteringHashMap.java
+15 | DataStructures | HashMapTest.java
+16 | DataStructures | LinkedHashMapTest.java
 
 TODO: for 2020.01
 -

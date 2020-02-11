@@ -6,6 +6,9 @@ import java.util.*;
  This program:
     - Demonstrates how HashSet works.
 
+ Some notes:
+    - HashSet also uses HashMap internally.
+
  Created at 2020-02
  ref HashSetTest.java
  */
