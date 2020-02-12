@@ -1,13 +1,14 @@
 # Homework
 
-:file_folder: src
+* :file_folder: src
 
-#####  :file_folder: Arrays - examples of arrays manipulations
-#####  :file_folder: Concurrency - examples of concurrent programming
-#####  :file_folder: DataStructures - practice with data-structures
-#####  :file_folder: Generics - examples for demonstration purposes
-#####  :file_folder: JavaAlgorithms - contains mechanical examples
-#####  :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
+ * - :file_folder: Arrays - examples of arrays manipulations
+ * - :file_folder: Concurrency - examples of concurrent programming
+ * - :file_folder: DataStructures - practice with data-structures
+ * - :file_folder: Generics - examples for demonstration purposes
+ * - :file_folder: JavaAlgorithms - contains mechanical examples
+ * - :file_folder: OOP - practice of Object Oriented Programming
+ * - :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
 
 
 TODO: for 2020.02
@@ -32,6 +33,7 @@ Nr. | Folder | New File
 14 | DataStructures | FilteringHashMap.java
 15 | DataStructures | HashMapTest.java
 16 | DataStructures | LinkedHashMapTest.java
+17 | OOP | EmailApp.java
 
 TODO: for 2020.01
 -
