@@ -15,6 +15,9 @@ import java.util.Scanner;
  * Have set methods to change password, set mail box capacity, and define alternate email address
  * Have get methods to display the name, email, and mailbox capacity.
  *
+ * Implemented new features:
+ *  - Mailbox size depends on what department is selected. Default size is 500MB
+ *
  */
 
 public class EmailApp {
@@ -26,6 +29,7 @@ public class EmailApp {
         System.out.println(email2.showInfo());
 
     }
+
 } // end class EmailApp
 
 

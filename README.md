@@ -7,6 +7,7 @@
  * - :file_folder: DataStructures - practice with data-structures
  * - :file_folder: Generics - examples for demonstration purposes
  * - :file_folder: JavaAlgorithms - contains mechanical examples
+ * - :file_folder: Library - code snippets for practice, usage examples, with notes.
  * - :file_folder: OOP - practice of Object Oriented Programming
  * - :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
 
@@ -34,6 +35,14 @@ Nr. | Folder | New File
 15 | DataStructures | HashMapTest.java
 16 | DataStructures | LinkedHashMapTest.java
 17 | OOP | EmailApp.java
+18 | DataStructures | LinkedListTest.java
+19 | DataStructures | StackTest.java
+20 | OOP | PayrollSystemTest.java
+21 | Library | TernaryOperatorTest.java
+22 | Library | SubString.java
+23 | Library | StringValueOf.java
+24 | Library | StringTokenTest.java
+25 | Library | StringStartEnd.java
 
 TODO: for 2020.01
 -
