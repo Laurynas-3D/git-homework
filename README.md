@@ -43,6 +43,17 @@ Nr. | Folder | New File
 23 | Library | StringValueOf.java
 24 | Library | StringTokenTest.java
 25 | Library | StringStartEnd.java
+26 | Library | StringManipulations.java
+27 | Library | StringIndexMethods.java
+28 | Library | StringConstructors.java
+29 | Library | StringConcatenation.java
+30 | Library | StringCompare.java
+31 | Library | StringBuilderInsertDelete.java
+32 | Library | StringBuilderConstructors.java
+33 | Library | SingletonUsage.java
+34 | Concurrency | SimpleThread.java
+35 | Arrays | DynamicArray.java
+
 
 TODO: for 2020.01
 -
