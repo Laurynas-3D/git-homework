@@ -53,6 +53,9 @@ Nr. | Folder | New File
 33 | Library | SingletonUsage.java
 34 | Concurrency | SimpleThread.java
 35 | Arrays | DynamicArray.java
+36 | Library | StringBuilderChars.java
+37 | Library | StringBuilderCapLen.java
+38 | Library | StringBuilderAppend.java
 
 
 TODO: for 2020.01
