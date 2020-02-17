@@ -56,6 +56,10 @@ Nr. | Folder | New File
 36 | Library | StringBuilderChars.java
 37 | Library | StringBuilderCapLen.java
 38 | Library | StringBuilderAppend.java
+39 | Library | StaticCharMethods.java
+40 | Library | RegexValidate.java
+41 | Library | RegexSubstitution.java
+42 | Library | RegexMatches.java
 
 
 TODO: for 2020.01
