@@ -60,6 +60,9 @@ Nr. | Folder | New File
 40 | Library | RegexValidate.java
 41 | Library | RegexSubstitution.java
 42 | Library | RegexMatches.java
+43 | Library | OtherCharMethods.java
+44 | Library | Interest2Calc.java
+45 | OOP | EnumTest.java
 
 
 TODO: for 2020.01
