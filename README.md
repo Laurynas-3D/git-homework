@@ -6,6 +6,7 @@
  * - :file_folder: Concurrency - examples of concurrent programming
  * - :file_folder: DataStructures - practice with data-structures
  * - :file_folder: Generics - examples for demonstration purposes
+ * - :file_folder: IO - examples of java.io package classes used for basic I/O
  * - :file_folder: JavaAlgorithms - contains mechanical examples
  * - :file_folder: Library - code snippets for practice, usage examples, with notes.
  * - :file_folder: OOP - practice of Object Oriented Programming
@@ -63,6 +64,11 @@ Nr. | Folder | New File
 43 | Library | OtherCharMethods.java
 44 | Library | Interest2Calc.java
 45 | OOP | EnumTest.java
+46 | IO | CreateFile.java
+47 | IO | CreateFolder.java
+48 | IO | CreateTextFile.java
+49 | IO | FileAndDirectoryInfo.java
+50 | IO | ReadTextFile.java
 
 
 TODO: for 2020.01
