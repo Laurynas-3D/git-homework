@@ -69,6 +69,8 @@ Nr. | Folder | New File
 48 | IO | CreateTextFile.java
 49 | IO | FileAndDirectoryInfo.java
 50 | IO | ReadTextFile.java
+51 | IO | CreditInquiry.java
+
 
 
 TODO: for 2020.01
