@@ -73,7 +73,7 @@ public class PayrollSystemTest {
 
 } // end of class PayrollSystemTest
 
-class SalariedEmployee extends Employee{
+class SalariedEmployee extends Employee {
 
     private double weeklySalary;
 
