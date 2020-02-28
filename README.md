@@ -71,6 +71,11 @@ Nr. | Folder | New File
 50 | IO | ReadTextFile.java
 51 | IO | CreditInquiry.java
 52 | OOP | EmployeeTest.java
+53 | Arrays | SecondLargest.java
+54 | Arrays | FindLargest.java
+55 | Arrays | LinearSearch.java
+56 | Arrays | InsertAtEnd.java
+
 
 
 
