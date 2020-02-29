@@ -75,6 +75,9 @@ Nr. | Folder | New File
 54 | Arrays | FindLargest.java
 55 | Arrays | LinearSearch.java
 56 | Arrays | InsertAtEnd.java
+57 | Library | VarargsTest.java
+58 | Library | Scope.java
+59 | Library | MethodOverload.java
 
 
 
