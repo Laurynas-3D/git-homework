@@ -12,6 +12,17 @@
  * - :file_folder: OOP - practice of Object Oriented Programming
  * - :file_folder: ProblemSolving - contains tasks to practice Difficulty (Easy)
 
+TODO: for 2020.03
+-
+- :repeat: Add new code snippets to Library
+
+Nr. | Folder | New File
+------- | -------- | --------
+1 | JavaAlgorithms | FindMaximum.java
+2 | Library | RandomIntegers.java
+3 | Library | StudentPoll.java
+4 | Library | RollDice.java
+5 | Library | RollDice2.java
 
 TODO: for 2020.02
 -
@@ -78,8 +89,6 @@ Nr. | Folder | New File
 57 | Library | VarargsTest.java
 58 | Library | Scope.java
 59 | Library | MethodOverload.java
-
-
 
 
 TODO: for 2020.01
