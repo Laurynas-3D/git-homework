@@ -25,6 +25,9 @@ Nr. | Folder | New File
 5 | Library | RollDice2.java
 6 | Library | LogicalOperators.java
 7 | Library | InterestCalc.java
+8 | Library | Increment.java
+9 | Library | GradeBookTest.java
+
 
 TODO: for 2020.02
 -
