@@ -27,6 +27,10 @@ Nr. | Folder | New File
 7 | Library | InterestCalc.java
 8 | Library | Increment.java
 9 | Library | GradeBookTest.java
+10 | Arrays | GradeBookTest2.java
+11 | Library | EnhancedForTest.java
+12 | Library | DoWhileTest.java
+13 | Library | DeckOfCardsTest.java
 
 
 TODO: for 2020.02
