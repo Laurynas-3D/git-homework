@@ -31,6 +31,9 @@ Nr. | Folder | New File
 11 | Library | EnhancedForTest.java
 12 | Library | DoWhileTest.java
 13 | Library | DeckOfCardsTest.java
+14 | Library | Craps.java
+15 | Library | ContinueTest.java
+16 | Library | Comparison.java
 
 
 TODO: for 2020.02
